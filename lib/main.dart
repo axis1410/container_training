@@ -35,15 +35,15 @@ class HomePage extends StatelessWidget {
         children: [
           Container(
             color: Colors.red,
-            child: const Text('Hello'),
+            child: const Text('I am red'),
           ),
           Container(
             color: Colors.green,
-            child: const Text('Hello'),
+            child: const Text('I am green'),
           ),
           Container(
             color: Colors.blue,
-            child: const Text('Hello'),
+            child: const Text('I am blue'),
           ),
         ],
       ),
